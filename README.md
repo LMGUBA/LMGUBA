@@ -8,7 +8,7 @@
 **Software Developer · AI Automation · Full Stack**
 
 Estudiante de Ingeniería de Sistemas e Informática - Universidad Continental  
-Titulado técnico en Ingeniería de Software con Inteligencia Artificial
+Titulado técnico en Ingeniería de Software con Inteligencia Artificial - SENATI
 
 [![GitHub](https://img.shields.io/badge/GitHub-LMGUBA-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LMGUBA)
 [![Portfolio](https://img.shields.io/badge/Portfolio-GUBA_Studio_Lab-075985?style=flat-square&logo=googlechrome&logoColor=white)](https://gubaestudio.com)
